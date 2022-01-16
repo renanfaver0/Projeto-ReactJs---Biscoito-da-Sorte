@@ -1,0 +1,27 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.img {
+    width: 300px;
+    height: 300px;
+    margin-top: 50px;
+}
+
+.textoFrase {
+    font-style: italic;
+    color: #dd7b22;
+    text-align: center;
+}
+
+.botaoAbrir {
+    background-color: #DDD;
+    font-size: 20px;
+    border-radius: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
