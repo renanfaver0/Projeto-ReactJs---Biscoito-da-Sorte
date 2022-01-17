@@ -1,4 +1,4 @@
-Desenvolvi o biscoito da sorte utilizando o framework React Js, para estar obtendo mais conhecimentos no framework e para estar treinando as minhas habilidades desenvolvidas.
+Desenvolvi o biscoito da sorte utilizando a biblioteca React Js, para estar obtendo mais conhecimentos, e para estar treinando as minhas habilidades desenvolvidas.
 
 O projeto tem a mesma funcionalidade do famoso biscoito da sorte, onde o usuário poderá clicar em "Abrir biscoito" e então mostrará mensagens aleatórias abaixo, cada vez que clicar no botão irá mostrar uma mensagem aleatória.
 
